@@ -1,0 +1,12 @@
+#*
+*.*
+## !**/*.rss
+#!data
+!icon.png
+!icon.jpg
+!icon.jpeg
+!icon.avif
+!.gitignore
+!dist.rss
+#!**/dist.rss
+#!**/*.rss

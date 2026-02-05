@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="https://feeds.feedburner.com/dancarlin/history?format=xml" rel="self" type="application/rss+xml" />
+    <title>Dan Carlin's Hardcore History</title>
+    <link>http://www.dancarlin.com</link>
+    <pubDate>Wed, 14 Jan 2026 14:15:13 GMT</pubDate>
+    <lastBuildDate>Wed, 14 Jan 2026 14:15:13 GMT</lastBuildDate>
+    <language>en-us</language>
+    <copyright>dancarlin.com</copyright>
+    <webMaster>dan@dancarlin.com (Dan Carlin)</webMaster>
+    <description>In "Hardcore History" journalist and broadcaster Dan Carlin takes his "Martian", unorthodox way of thinking and applies it to the past. Was Alexander the Great as bad a person as Adolf Hitler? What would Apaches with modern weapons be like? Will our modern civilization ever fall like civilizations from past eras? This isn't academic history (and Carlin isn't a historian) but the podcast's unique blend of high drama, masterful narration and Twilight Zone-style twists has entertained millions of listeners.</description>
+    <itunes:subtitle>This isn't academic history (and Carlin isn't a historian) but the podcast's unique blend of high drama, masterful narration and Twilight Zone-style twists has entertained millions of listeners.</itunes:subtitle>
+    <itunes:owner>
+      <itunes:name>Dan Carlin's Hardcore History</itunes:name>
+      <itunes:email>dan@dancarlin.com </itunes:email>
+    </itunes:owner>
+    <itunes:author>Dan Carlin</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="http://www.dancarlin.com/graphics/DC_HH_iTunes.jpg" />
+    <image>
+      <url>http://www.dancarlin.com/graphics/DC_HH_iTunes.jpg</url>
+      <title>Dan Carlin's Hardcore History</title>
+      <link>http://www.dancarlin.com</link>
+    </image>
+    <itunes:category text="History" />
+    <item>
+      <guid isPermaLink="false">HardcoreHistory72</guid>
+      <title>Mania for Subjugation II</title>
+      <pubDate>Fri, 03 Jan 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>03:51:25</itunes:duration>
+      <itunes:author>HardcoreHistory</itunes:author>
+      <itunes:summary>
+&lt;p&gt;Is it safe to hand control of the deadliest army in the world to a 20-year old? If you are Thracian, Triballian, Illyrian or Theban, the answer is definitely no. Alexander becomes king and fights off threats to his rule in all directions.&lt;/p&gt;
+</itunes:summary>
+      <description>
+&lt;p&gt;Is it safe to hand control of the deadliest army in the world to a 20-year old? If you are Thracian, Triballian, Illyrian or Theban, the answer is definitely no. Alexander becomes king and fights off threats to his rule in all directions.&lt;/p&gt;
+</description>
+      <enclosure type="mpeg" url="http://192.168.1.148:15167/prfeed/HardcoreHistory/episodes/dchha72_Mania_for_Subjugation_II.mp3" length="174062533" />
+      <itunes:image href="https://www.dancarlin.com/wp-content/uploads/2024/12/Mania-for-subj-Show72-square-3000x3000-1-scaled-e1735675581724.jpg" />
+    </item>
+  </channel>
+</rss>
